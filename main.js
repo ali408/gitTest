@@ -1,3 +1,1 @@
-function sayhi(){
-console.log("hello ahmed");
-}
+console.log("Git Branches");
